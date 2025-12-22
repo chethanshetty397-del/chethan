@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HMI Autonomous Transition Dashboard",
+  "description": "An advanced Human-Machine Interface for autonomous vehicle transitions, featuring real-time sensor simulation, driver monitoring, and AI-driven takeover reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
